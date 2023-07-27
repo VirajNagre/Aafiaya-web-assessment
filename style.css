@@ -212,7 +212,8 @@ li{
 }
 
 .info{
-    background-image: url('./assets/images/Page\ development\ test\ project\ \(3\)\ \(1\)\ \(1\).png');
+    /* background-image: url('./assets/images/Page\ development\ test\ project\ \(3\)\ \(1\)\ \(1\).png'); */
+    background-image: url(./Page\ development\ test\ project\ \(3\)\ \(1\)\ \(1\).png)
     height: 400px;
     width: 100%;
     background-size: cover;
@@ -622,7 +623,7 @@ section-details{
 }
 
 .get-in-touch{
-    background-image: url("image.png");
+    background-image: url("./image.png");
     height: 300px;
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
