@@ -213,7 +213,8 @@ li{
 
 .info{
     /* background-image: url('./assets/images/Page\ development\ test\ project\ \(3\)\ \(1\)\ \(1\).png'); */
-    background-image: url(./Page\ development\ test\ project\ \(3\)\ \(1\)\ \(1\).png)
+    /* background-image: url(./Page\ development\ test\ project\ \(3\)\ \(1\)\ \(1\).png) */
+    background-image: url("./knee.png");
     height: 400px;
     width: 100%;
     background-size: cover;
